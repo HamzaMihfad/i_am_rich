@@ -1,6 +1,11 @@
 # i_am_rich
 
-A new Flutter project.
+I Am Rich is an iOS application and which was distributed using the App Store.
+When launched, the screen only contains a glowing red gem and an icon that, when pressed, displays the following mantra in large text:
+  I am rich
+  I deserv it
+  I am good, healthy & successful
+  The application is described as "a work of art with no hidden function at all", with its only purpose being to show other people that they were able to afford it for 999.99$
 
 ## Getting Started
 
